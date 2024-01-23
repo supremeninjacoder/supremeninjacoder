@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**supremeninjacoder/supremeninjacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on creating ai based web applications and generative algorithms
 - 🌱 I’m currently learning implementing machine learning and data science pipelines in AWS environment
 - 🤔 I’m looking for help with any practical big data application on enterprise or large-scale
@@ -25,4 +20,3 @@ Here are some ideas to get you started:
 🌐 You can explore my journey and contributions on my GitHub profile, where I showcase my passion for open-source development and collaborative problem-solving. Feel free to connect, collaborate, and explore the exciting intersection of data science and technology with me!
 
 📈 Let's transform data into knowledge, one line of code at a time!
--->
